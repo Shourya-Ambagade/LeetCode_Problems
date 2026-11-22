@@ -36,8 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shkid-sketch/LeetCode_Problems/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shkid-sketch/LeetCode_Problems/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shkid-sketch/LeetCode_Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shkid-sketch/LeetCode_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
